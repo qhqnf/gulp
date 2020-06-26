@@ -14,3 +14,5 @@ manual for using gulp
 5. create gulp task with pipe
 
 6. make command(scripts) in package.json and export variable in gulpfile (optional)
+
+7. install something you want (gulp-csso, gulp-webserver, gulp-sass, node-sass, gulp-imagemin, gulp-autoprefixer ...)
